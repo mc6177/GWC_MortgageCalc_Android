@@ -46,7 +46,7 @@ fun MortgageCalculatorTheme(
             if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
         }
 
-        darkTheme -> DarkColorScheme
+        darkTheme -> DarkColorScheme //if above conditions are met-> dark, otherwise light
         else -> LightColorScheme
     }
 

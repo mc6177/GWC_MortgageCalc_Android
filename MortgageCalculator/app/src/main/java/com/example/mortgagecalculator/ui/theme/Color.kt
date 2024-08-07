@@ -1,7 +1,7 @@
 package com.example.mortgagecalculator.ui.theme
 
 import androidx.compose.ui.graphics.Color
-
+//This is where I set a name (comes after val) for the HEX codes of specific color
 val Purple80 = Color(0xFFD0BCFF)
 val PurpleGrey80 = Color(0xFFCCC2DC)
 val Pink80 = Color(0xFFEFB8C8)
