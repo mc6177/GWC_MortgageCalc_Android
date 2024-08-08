@@ -44,6 +44,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     MortgageCalculatorTheme {
-        Greeting("Android")
+        Greeting("Maggie")
     }
 }
